@@ -1,6 +1,6 @@
 <template>
   <div class="">
-    <div class="animate-pulse">
+    <div class="animate-pulse max-w-sm w-full mx-auto">
       <slot></slot>
     </div>
   </div>
